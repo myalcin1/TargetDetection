@@ -1,6 +1,12 @@
 ## Giriş
 Bu proje, 2 sensörün bir hedefe olan açılarını kullanarak hedefin konumunu hesaplayan bir Java programıdır.
 
+## Kütüphaneler ve Versiyonları
+Kullanılan kütüphaneler ve versiyonları ```pom.xml``` dosyasında bulunabilir:
+- ```org.apache.kafka``` ```3.2.3```
+- ```org.slf4j``` ```1.7.5```
+- ```com.googlecode.json-simple``` ```1.1.1```
+
 ## Apache Kafka Kurulumu
 1. https://kafka.apache.org/quickstart adresinden apache kafka indirilir.
 2. Sitedeki adımlar izlenerek apache kafka çalıştırılır.
